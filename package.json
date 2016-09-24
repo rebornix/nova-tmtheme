@@ -1,0 +1,26 @@
+{
+    "name": "nova-tmtheme",
+    "description": "Nova tmTheme",
+    "version": "0.0.1",
+    "author": "rebornix",
+    "scripts": {
+        "start": "scripts/start",
+        "push": "scripts/push",
+        "lint": "scripts/lint",
+        "build": "scripts/build"
+    },
+    "devDependencies": {
+        "eslint": "3.5.0",
+        "watch": "0.19.2"
+    },
+    "dependencies": {
+        "nova-colors": "1.2.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rebornix/nova-tmtheme.git"
+    },
+    "bugs": {
+        "url": "https://github.com/rebornix/nova-tmtheme/issues"
+    }
+}
